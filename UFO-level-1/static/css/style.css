@@ -41,6 +41,7 @@ body {
 .navbar {
   padding: 5px;
   margin: 0;
+  opacity: 75%;
 }
 
 /* This CSS styles the ufo icon in the navbar */
@@ -98,9 +99,9 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
-  background-attachment: fixed;
-  background-position: bottom center;
+  background-image: url("../images/ufo.jpeg");
+  background-attachment: scroll;
+  background-position: center;
   background-size: cover;
 }
 
